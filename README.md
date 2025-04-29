@@ -5,8 +5,7 @@ A simple React application that displays a gallery of delicious recipes.
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/recipe-gallery.git
-
+https://github.com/beimnettes/Building-a-Recipe-Gallery-in-React
 markdown
 Copy
 Edit
